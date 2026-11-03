@@ -425,5 +425,17 @@ render();
 setInterval(render,60000);
 </script>
 
+<script>
+(function(){
+  var last=JSON.stringify(RESULTS);
+  function poll(){
+    fetch("results.json?t="+Date.now(),{cache:"no-store"}).then(function(r){return r.ok?r.json():null;}).then(function(j){
+      if(!j) return; var s=JSON.stringify(j); if(s===last) return; last=s;
+      Object.keys(j).forEach(function(k){ RESULTS[k]=j[k]; }); render();
+    }).catch(function(){});
+  }
+  setInterval(poll,60000); document.addEventListener("visibilitychange",function(){ if(!document.hidden) poll(); });
+})();
+</script>
 </body>
 </html>
