@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-03T23:10:00-05:00",
+ "updated": "2026-11-03T23:15:00-05:00",
  "final": false,
  "houseCalled": {
-  "D": 136,
-  "R": 86
+  "D": 137,
+  "R": 91
  },
  "notes": [
-  "AP calls Texas Senate for James Talarico (D) over Ken Paxton, the third Senate flip after North Carolina and South Carolina.",
-  "AP calls OH-15 (Leonard, D) \u2014 six House flips so far, including PA-7, PA-8 and PA-10.",
-  "AP calls AL-2 for Shomari Figures (D), a Democratic hold in a Lean R seat."
+  "AP calls Ohio Senate special for Sherrod Brown (D) over Sen. Jon Husted \u2014 the fourth Senate flip, putting Democrats on track for a 51\u201349 majority.",
+  "Earlier AP Senate flips: North Carolina (Cooper), South Carolina (Andrews), Texas (Talarico).",
+  "Six House flips so far, including PA-7, PA-8, PA-10 and OH-15."
  ],
  "calls": {
   "VA-S": {
@@ -736,6 +736,27 @@
   },
   "TN-2": {
    "w": "R"
+  },
+  "KS-4": {
+   "w": "R"
+  },
+  "MI-5": {
+   "w": "R"
+  },
+  "MN-7": {
+   "w": "R"
+  },
+  "NE-3": {
+   "w": "R"
+  },
+  "NY-24": {
+   "w": "R"
+  },
+  "OH-S": {
+   "w": "D"
+  },
+  "OR-3": {
+   "w": "D"
   }
  },
  "v": "820b570094"
