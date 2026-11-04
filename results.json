@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-04T00:16:00-05:00",
+ "updated": "2026-11-04T00:23:00-05:00",
  "final": false,
  "houseCalled": {
-  "D": 184,
-  "R": 110
+  "D": 185,
+  "R": 113
  },
  "notes": [
-  "AP calls IA-1 (Bohannan) and IA-3 (Trone Garriott) for Democrats, unseating Reps. Miller-Meeks and Nunn \u2014 13 House flips so far.",
+  "AP calls IA-2 (Toss-up) for Lindsay James (D) \u2014 Democrats sweep IA-1, IA-2 and IA-3; 14 House flips so far.",
   "AP calls Minnesota Senate for Peggy Flanagan (D), a hold; six Senate flips: NC, SC, TX, OH, KS, IA.",
   "AP calls MO-2 for Fred Wellman (D), unseating Rep. Ann Wagner in a Likely R seat."
  ],
@@ -973,6 +973,18 @@
   },
   "NM-2": {
    "w": "D"
+  },
+  "IA-2": {
+   "w": "D"
+  },
+  "TN-5": {
+   "w": "R"
+  },
+  "TN-6": {
+   "w": "R"
+  },
+  "TN-8": {
+   "w": "R"
   }
  },
  "v": "e59adcebb6"
