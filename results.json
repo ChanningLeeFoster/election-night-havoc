@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-03T21:22:00-05:00",
+ "updated": "2026-11-03T21:29:00-05:00",
  "final": false,
  "houseCalled": {
-  "D": 27,
+  "D": 32,
   "R": 13
  },
  "notes": [
+  "AP calls FL-22, a seat redrawn to favor Republicans, for Pia Dandiya (D).",
   "AP calls NC-11 for Jamie Ager (D), the first House flip of the night.",
-  "AP calls West Virginia Senate for Shelley Moore Capito (R, SAC-D).",
   "AP calls North Carolina Senate for Roy Cooper (D), a Senate flip."
  ],
  "calls": {
@@ -144,6 +144,21 @@
    "w": "R"
   },
   "IL-5": {
+   "w": "D"
+  },
+  "FL-22": {
+   "w": "D"
+  },
+  "NY-10": {
+   "w": "D"
+  },
+  "NJ-12": {
+   "w": "D"
+  },
+  "NY-7": {
+   "w": "D"
+  },
+  "IL-2": {
    "w": "D"
   }
  },
