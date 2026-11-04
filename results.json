@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-03T23:22:00-05:00",
+ "updated": "2026-11-03T23:29:00-05:00",
  "final": false,
  "houseCalled": {
-  "D": 141,
+  "D": 144,
   "R": 94
  },
  "notes": [
-  "AP calls Ohio Senate special for Sherrod Brown (D) over Sen. Jon Husted \u2014 the fourth Senate flip, putting Democrats on track for a 51\u201349 majority.",
-  "Earlier AP Senate flips: North Carolina (Cooper), South Carolina (Andrews), Texas (Talarico).",
+  "AP calls Kansas Senate for Adam Hamilton (D), unseating Sen. Roger Marshall \u2014 the fifth Senate flip; projection now 52\u201348 Democratic.",
+  "Earlier AP Senate flips: North Carolina (Cooper), South Carolina (Andrews), Texas (Talarico), Ohio (Brown).",
   "Six House flips so far, including PA-7, PA-8, PA-10 and OH-15."
  ],
  "calls": {
@@ -780,6 +780,18 @@
    "w": "D"
   },
   "WA-7": {
+   "w": "D"
+  },
+  "KS-S": {
+   "w": "D"
+  },
+  "MD-6": {
+   "w": "D"
+  },
+  "OR-1": {
+   "w": "D"
+  },
+  "WA-10": {
    "w": "D"
   }
  },
