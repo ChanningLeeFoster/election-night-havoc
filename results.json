@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-03T23:15:00-05:00",
+ "updated": "2026-11-03T23:22:00-05:00",
  "final": false,
  "houseCalled": {
-  "D": 137,
-  "R": 91
+  "D": 141,
+  "R": 94
  },
  "notes": [
   "AP calls Ohio Senate special for Sherrod Brown (D) over Sen. Jon Husted \u2014 the fourth Senate flip, putting Democrats on track for a 51\u201349 majority.",
@@ -756,6 +756,30 @@
    "w": "D"
   },
   "OR-3": {
+   "w": "D"
+  },
+  "AL-1": {
+   "w": "R"
+  },
+  "AL-S": {
+   "w": "R"
+  },
+  "KS-1": {
+   "w": "R"
+  },
+  "MT-2": {
+   "w": "R"
+  },
+  "NM-3": {
+   "w": "D"
+  },
+  "WA-9": {
+   "w": "D"
+  },
+  "WA-6": {
+   "w": "D"
+  },
+  "WA-7": {
    "w": "D"
   }
  },
