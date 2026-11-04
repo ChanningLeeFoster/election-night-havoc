@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-04T00:03:00-05:00",
+ "updated": "2026-11-04T00:10:00-05:00",
  "final": false,
  "houseCalled": {
-  "D": 174,
-  "R": 108
+  "D": 182,
+  "R": 109
  },
  "notes": [
-  "AP calls MO-2 for Fred Wellman (D), unseating Rep. Ann Wagner (R) in a Likely R seat, and NE-2 for Denise Powell (D) \u2014 11 House flips so far.",
-  "AP calls CO-8 (Rutinel) and VA-2 (Luria) for Democrats, unseating Reps. Evans (Homeland) and Kiggans (HASC).",
-  "Six Senate flips: NC, SC, TX, OH, KS, IA."
+  "AP calls IA-1 (Bohannan) and IA-3 (Trone Garriott) for Democrats, unseating Reps. Miller-Meeks and Nunn \u2014 13 House flips so far.",
+  "AP calls Minnesota Senate for Peggy Flanagan (D), a hold; six Senate flips: NC, SC, TX, OH, KS, IA.",
+  "AP calls MO-2 for Fred Wellman (D), unseating Rep. Ann Wagner in a Likely R seat."
  ],
  "calls": {
   "VA-S": {
@@ -930,6 +930,39 @@
    "w": "R"
   },
   "TX-13": {
+   "w": "R"
+  },
+  "CA-24": {
+   "w": "D"
+  },
+  "CA-26": {
+   "w": "D"
+  },
+  "IA-1": {
+   "w": "D"
+  },
+  "IA-3": {
+   "w": "D"
+  },
+  "MN-3": {
+   "w": "D"
+  },
+  "MN-4": {
+   "w": "D"
+  },
+  "MN-5": {
+   "w": "D"
+  },
+  "MN-S": {
+   "w": "D"
+  },
+  "NM-1": {
+   "w": "D"
+  },
+  "SD-S": {
+   "w": "R"
+  },
+  "UT-3": {
    "w": "R"
   }
  },
