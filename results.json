@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-04T06:30:00-05:00",
+ "updated": "2026-11-04T12:23:00-05:00",
  "final": true,
  "houseCalled": {
   "D": 228,
   "R": 139
  },
  "notes": [
-  "Democrats reach 222 House seats called by AP, a House majority (218 needed); 21 House flips.",
-  "Senate: seven Democratic flips \u2014 NC, SC, TX, OH, KS, IA, ME, including Sen. Susan Collins (R), Appropriations Chair and SAC-D; Michigan held by El-Sayed (D).",
-  "Synced with AP at 6:30 AM ET; a few races remain uncalled."
+  "Checked against AP at 12:23 PM ET: no new race calls since 5:19 AM; AP totals unchanged.",
+  "Senate: seven Democratic flips \u2014 NC, SC, TX, OH, KS, IA, ME; Alaska and Mississippi still uncalled.",
+  "House: Democrats at 228 seats by AP count, past 218; 21 House flips; races still counting, mostly in the West."
  ],
  "calls": {
   "VA-S": {
