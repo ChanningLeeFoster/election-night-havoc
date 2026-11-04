@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-03T22:54:00-05:00",
+ "updated": "2026-11-03T23:00:00-05:00",
  "final": false,
  "houseCalled": {
-  "D": 129,
-  "R": 74
+  "D": 132,
+  "R": 77
  },
  "notes": [
   "AP calls OH-15 (Lean R) for Don Leonard (D), unseating Rep. Mike Carey; six House flips so far.",
@@ -672,6 +672,24 @@
    "w": "D"
   },
   "TX-34": {
+   "w": "D"
+  },
+  "CT-2": {
+   "w": "D"
+  },
+  "GA-12": {
+   "w": "R"
+  },
+  "LA-1": {
+   "w": "R"
+  },
+  "MD-2": {
+   "w": "D"
+  },
+  "PA-11": {
+   "w": "R"
+  },
+  "TX-37": {
    "w": "D"
   }
  },
