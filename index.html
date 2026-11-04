@@ -127,6 +127,7 @@ details.state .race:first-child{border-top:1px solid var(--line)}
 .cell.D{background:var(--dem);border-color:var(--dem)} .cell.R{background:var(--rep);border-color:var(--rep)} .cell.I{background:var(--ind);border-color:var(--ind)}
 .cell.flip{box-shadow:inset 0 0 0 2px var(--panel)}
 .bandlab{font-family:var(--mono);font-size:10px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;text-align:center}
+.band.up .bandlab{color:var(--havoc);font-weight:700}
 .band.tu .cells{outline:1px dashed var(--fg);outline-offset:2px;border-radius:2px}
 .wcap{font-size:13px;color:var(--fg)}
 .wkey{display:flex;flex-wrap:wrap;gap:6px 14px;font-size:12px;color:var(--muted)}
@@ -166,7 +167,7 @@ details.state .race:first-child{border-top:1px solid var(--line)}
 
   <section class="score wave" aria-labelledby="wave-h">
     <h2 id="wave-h">Wave meter</h2>
-    <p class="sub" style="margin:0">Every battleground seat, ordered from safest Democratic (left) to safest Republican (right) by Cook rating. Seats fill in as they’re called. Blue pushing right of center means a blue wave; red pushing left means a red one.</p>
+    <p class="sub" style="margin:0">Every battleground seat, ordered from safest Democratic (left) to safest Republican (right) by Cook rating. Seats fill in as they’re called. Blue pushing right of center means a blue wave; red pushing left means a red one. If a Solid seat flips, it appears at the far edge as an upset.</p>
     <div class="wrow"><div class="wlab">Senate</div><div class="strip" id="wave-s"></div><div class="wcap" id="wave-s-cap"></div></div>
     <div class="wrow"><div class="wlab">House</div><div class="strip" id="wave-h-strip"></div><div class="wcap" id="wave-h-cap"></div></div>
     <div class="wkey"><span><i class="kD"></i>Dem win</span><span><i class="kR"></i>GOP win</span><span><i class="kI"></i>Ind win</span><span><i class="kU"></i>Not called</span></div>
@@ -362,7 +363,7 @@ function renderAll(){
   if(!shown) box.appendChild(el("div","empty","No races match that search."));
 }
 
-var BANDS=[["Likely D","Likely D"],["Lean D","Lean D"],["Toss-up","Toss-up"],["Lean R","Lean R"],["Likely R","Likely R"]];
+var BANDS=[["Solid D","Upset in Solid D"],["Likely D","Likely D"],["Lean D","Lean D"],["Toss-up","Toss-up"],["Lean R","Lean R"],["Likely R","Likely R"],["Solid R","Upset in Solid R"]];
 function pvScore(r){ var p=r.pv||"E0", n=+p.slice(1)||0; return p[0]==="D"?-n:p[0]==="R"?n:0; }
 function wave(boxId,capId,rows,chamber){
   var box=document.getElementById(boxId); box.replaceChildren();
@@ -370,7 +371,7 @@ function wave(boxId,capId,rows,chamber){
   BANDS.forEach(function(b,bi){
     var seats=rows.filter(function(r){return r.rt===b[0];}).sort(function(a,c){return pvScore(a)-pvScore(c)||(a.lab<c.lab?-1:1);});
     if(!seats.length) return;
-    var g=el("div","band"+(b[0]==="Toss-up"?" tu":"")); g.style.flex=seats.length+" 1 0";
+    var g=el("div","band"+(b[0]==="Toss-up"?" tu":"")+(b[0].indexOf("Solid")===0?" up":"")); g.style.flex=seats.length+" 1 0";
     var cells=el("div","cells");
     seats.forEach(function(r){
       var c=RESULTS.calls[r.id], w=c?c.w:"", cell=el("div","cell"+(w?" "+w:"")+(c&&r.hp&&w!==r.hp?" flip":""));
@@ -391,6 +392,8 @@ function wave(boxId,capId,rows,chamber){
     if(deepD>=0) parts.push("Dems have won as deep as "+BANDS[deepD][0]);
     if(deepR<99) parts.push("GOP as deep as "+BANDS[deepR][0]);
     parts.push("Toss-ups: D "+tuD+" · R "+tuR+" · "+(tu.length-tuD-tuR)+" uncalled");
+    var ups=called.filter(function(r){return r.rt.indexOf("Solid")===0;}).map(function(r){return r.isSen?STATES[r.st]:r.lab;});
+    if(ups.length) parts.push("Upset"+(ups.length>1?"s":"")+": "+ups.join(", "));
     cap=parts.join(" · ");
   }
   document.getElementById(capId).textContent=cap;
@@ -398,8 +401,9 @@ function wave(boxId,capId,rows,chamber){
 }
 function render(){
   var SB=["Likely D","Lean D","Toss-up","Lean R","Likely R"];
-  wave("wave-s","wave-s-cap",DATA.S.filter(function(r){return SB.indexOf(r.rt)>=0;}),"S");
-  wave("wave-h-strip","wave-h-cap",DATA.H.filter(function(r){return SB.indexOf(r.rt)>=0;}),"H");
+  function inMeter(r){ if(SB.indexOf(r.rt)>=0) return true; var c=RESULTS.calls[r.id]; return !!(c&&r.hp&&r.rt.indexOf("Solid")===0&&c.w!==r.hp); }
+  wave("wave-s","wave-s-cap",DATA.S.filter(inMeter),"S");
+  wave("wave-h-strip","wave-h-cap",DATA.H.filter(inMeter),"H");
   renderAll();
   fillList("senR-list",SEN_R.map(function(s){return BY[s+"-S"];}));
   fillList("senD-list",SEN_D.map(function(s){return BY[s+"-S"];}));
@@ -477,7 +481,7 @@ setInterval(render,60000);
 
 <script>
 (function(){
-  var VER="261f04459f";
+  var VER="820b570094";
   var last=JSON.stringify(RESULTS);
   function poll(){
     fetch("results.json?t="+Date.now(),{cache:"no-store"}).then(function(r){return r.ok?r.json():null;}).then(function(j){
