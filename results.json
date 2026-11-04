@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-03T22:47:00-05:00",
+ "updated": "2026-11-03T22:54:00-05:00",
  "final": false,
  "houseCalled": {
-  "D": 127,
-  "R": 73
+  "D": 129,
+  "R": 74
  },
  "notes": [
+  "AP calls OH-15 (Lean R) for Don Leonard (D), unseating Rep. Mike Carey; six House flips so far.",
   "AP calls South Carolina Senate for Annie Andrews (D), the second Senate flip after North Carolina.",
-  "AP calls PA-8 (Cognetti) and PA-10 (Stelson) for Democrats, unseating Reps. Bresnahan and Perry; five House flips so far.",
   "AP calls TN-3 for Chuck Fleischmann (R, HAC-D) and LA-4 for Speaker Mike Johnson (R)."
  ],
  "calls": {
@@ -664,6 +664,15 @@
   },
   "TN-3": {
    "w": "R"
+  },
+  "NY-23": {
+   "w": "R"
+  },
+  "OH-15": {
+   "w": "D"
+  },
+  "TX-34": {
+   "w": "D"
   }
  },
  "v": "820b570094"
