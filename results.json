@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-03T23:00:00-05:00",
+ "updated": "2026-11-03T23:08:00-05:00",
  "final": false,
  "houseCalled": {
-  "D": 132,
-  "R": 77
+  "D": 136,
+  "R": 85
  },
  "notes": [
-  "AP calls OH-15 (Lean R) for Don Leonard (D), unseating Rep. Mike Carey; six House flips so far.",
-  "AP calls South Carolina Senate for Annie Andrews (D), the second Senate flip after North Carolina.",
-  "AP calls TN-3 for Chuck Fleischmann (R, HAC-D) and LA-4 for Speaker Mike Johnson (R)."
+  "AP calls Texas Senate for James Talarico (D) over Ken Paxton, the third Senate flip after North Carolina and South Carolina.",
+  "AP calls OH-15 (Leonard, D) \u2014 six House flips so far, including PA-7, PA-8 and PA-10.",
+  "AP calls AL-2 for Shomari Figures (D), a Democratic hold in a Lean R seat."
  ],
  "calls": {
   "VA-S": {
@@ -691,6 +691,48 @@
   },
   "TX-37": {
    "w": "D"
+  },
+  "AL-2": {
+   "w": "D"
+  },
+  "AL-5": {
+   "w": "R"
+  },
+  "CT-1": {
+   "w": "D"
+  },
+  "IL-10": {
+   "w": "D"
+  },
+  "IN-3": {
+   "w": "R"
+  },
+  "MO-3": {
+   "w": "R"
+  },
+  "NH-2": {
+   "w": "D"
+  },
+  "OH-8": {
+   "w": "R"
+  },
+  "OR-S": {
+   "w": "D"
+  },
+  "PA-16": {
+   "w": "R"
+  },
+  "SD-AL": {
+   "w": "R"
+  },
+  "TX-S": {
+   "w": "D"
+  },
+  "WI-7": {
+   "w": "R"
+  },
+  "WI-8": {
+   "w": "R"
   }
  },
  "v": "820b570094"
