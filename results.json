@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-04T00:59:00-05:00",
+ "updated": "2026-11-04T01:21:00-05:00",
  "final": false,
  "houseCalled": {
-  "D": 199,
-  "R": 122
+  "D": 208,
+  "R": 125
  },
  "notes": [
-  "AP calls WI-3 for Rebecca Cooke (D), unseating Rep. Derrick Van Orden (R, HASC), and WI-1 for Berman (D) \u2014 18 House flips so far.",
-  "AP calls PA-1 (Harvie) and TX-15 (Pulido) for Democrats, unseating Reps. Fitzpatrick and De La Cruz.",
-  "Six Senate flips: NC, SC, TX, OH, KS, IA."
+  "AP calls Maine Senate for Troy Jackson (D), unseating Sen. Susan Collins (R), Appropriations Chair and SAC-D \u2014 the seventh Senate flip.",
+  "AP calls IN-5 (Ford) and TX-23 (Padilla Stout) for Democrats, unseating Reps. Spartz and the GOP hold in TX-23 \u2014 20 House flips so far.",
+  "Senate flips: NC, SC, TX, OH, KS, IA, ME."
  ],
  "calls": {
   "VA-S": {
@@ -1056,6 +1056,45 @@
    "w": "D"
   },
   "MI-3": {
+   "w": "D"
+  },
+  "CA-25": {
+   "w": "D"
+  },
+  "CA-27": {
+   "w": "D"
+  },
+  "CA-39": {
+   "w": "D"
+  },
+  "CA-50": {
+   "w": "D"
+  },
+  "CA-51": {
+   "w": "D"
+  },
+  "HI-2": {
+   "w": "D"
+  },
+  "IN-5": {
+   "w": "D"
+  },
+  "ME-S": {
+   "w": "D"
+  },
+  "MI-1": {
+   "w": "R"
+  },
+  "OR-4": {
+   "w": "D"
+  },
+  "TX-8": {
+   "w": "R"
+  },
+  "TX-10": {
+   "w": "R"
+  },
+  "TX-23": {
    "w": "D"
   }
  },
