@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-04T00:45:00-05:00",
+ "updated": "2026-11-04T00:52:00-05:00",
  "final": false,
  "houseCalled": {
-  "D": 196,
-  "R": 120
+  "D": 198,
+  "R": 122
  },
  "notes": [
-  "AP calls PA-1 for Bob Harvie (D), unseating Rep. Brian Fitzpatrick, and TX-15 for Bobby Pulido (D), unseating Rep. Monica De La Cruz \u2014 16 House flips so far.",
-  "Democrats swept Iowa (IA-1, IA-2, IA-3) and flipped MO-2, NE-2, CO-8, VA-2 and CA-1.",
+  "AP calls WI-3 for Rebecca Cooke (D), unseating Rep. Derrick Van Orden (R, HASC), and WI-1 for Berman (D) \u2014 18 House flips so far.",
+  "AP calls PA-1 (Harvie) and TX-15 (Pulido) for Democrats, unseating Reps. Fitzpatrick and De La Cruz.",
   "Six Senate flips: NC, SC, TX, OH, KS, IA."
  ],
  "calls": {
@@ -1042,6 +1042,18 @@
   },
   "TX-31": {
    "w": "R"
+  },
+  "TX-4": {
+   "w": "R"
+  },
+  "TX-26": {
+   "w": "R"
+  },
+  "WI-1": {
+   "w": "D"
+  },
+  "WI-3": {
+   "w": "D"
   }
  },
  "v": "e59adcebb6"
