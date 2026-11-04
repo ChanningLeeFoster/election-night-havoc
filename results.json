@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-03T22:40:00-05:00",
+ "updated": "2026-11-03T22:47:00-05:00",
  "final": false,
  "houseCalled": {
-  "D": 122,
-  "R": 68
+  "D": 127,
+  "R": 73
  },
  "notes": [
-  "AP calls PA-7 for Bob Brooks (D), unseating Rep. Ryan Mackenzie (R, Homeland) \u2014 the third House flip.",
-  "Earlier House flips: KY-6 (Dembo, D) and NC-11 (Ager, D).",
-  "AP calls North Carolina Senate for Roy Cooper (D), a Senate flip."
+  "AP calls South Carolina Senate for Annie Andrews (D), the second Senate flip after North Carolina.",
+  "AP calls PA-8 (Cognetti) and PA-10 (Stelson) for Democrats, unseating Reps. Bresnahan and Perry; five House flips so far.",
+  "AP calls TN-3 for Chuck Fleischmann (R, HAC-D) and LA-4 for Speaker Mike Johnson (R)."
  ],
  "calls": {
   "VA-S": {
@@ -627,6 +627,42 @@
    "w": "D"
   },
   "WI-6": {
+   "w": "R"
+  },
+  "AR-S": {
+   "w": "R"
+  },
+  "LA-4": {
+   "w": "R"
+  },
+  "MA-4": {
+   "w": "D"
+  },
+  "MA-8": {
+   "w": "D"
+  },
+  "MI-2": {
+   "w": "R"
+  },
+  "MO-7": {
+   "w": "R"
+  },
+  "NY-20": {
+   "w": "D"
+  },
+  "PA-8": {
+   "w": "D"
+  },
+  "PA-10": {
+   "w": "D"
+  },
+  "PA-14": {
+   "w": "R"
+  },
+  "SC-S": {
+   "w": "D"
+  },
+  "TN-3": {
    "w": "R"
   }
  },
