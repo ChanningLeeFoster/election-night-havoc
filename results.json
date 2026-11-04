@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-04T03:12:00-05:00",
+ "updated": "2026-11-04T06:30:00-05:00",
  "final": true,
  "houseCalled": {
-  "D": 217,
-  "R": 130
+  "D": 222,
+  "R": 138
  },
  "notes": [
-  "Final overnight update at 3:12 AM ET; some races remain uncalled (AP data last synced at 2:05 AM).",
-  "Senate: seven Democratic flips \u2014 NC, SC, TX, OH, KS, IA, ME, including Sen. Susan Collins (R), Appropriations Chair and SAC-D.",
-  "House: 21 Democratic flips; Democrats at 217 seats called by AP, one short of 218."
+  "Democrats reach 222 House seats called by AP, a House majority (218 needed); 21 House flips.",
+  "Senate: seven Democratic flips \u2014 NC, SC, TX, OH, KS, IA, ME, including Sen. Susan Collins (R), Appropriations Chair and SAC-D; Michigan held by El-Sayed (D).",
+  "Synced with AP at 6:30 AM ET; a few races remain uncalled."
  ],
  "calls": {
   "VA-S": {
@@ -1140,6 +1140,54 @@
    "w": "R"
   },
   "TX-25": {
+   "w": "R"
+  },
+  "AZ-9": {
+   "w": "R"
+  },
+  "CA-5": {
+   "w": "R"
+  },
+  "CA-49": {
+   "w": "D"
+  },
+  "ID-2": {
+   "w": "R"
+  },
+  "IN-2": {
+   "w": "R"
+  },
+  "MI-S": {
+   "w": "D"
+  },
+  "MN-8": {
+   "w": "R"
+  },
+  "MT-S": {
+   "w": "R"
+  },
+  "NE-S": {
+   "w": "R"
+  },
+  "NV-1": {
+   "w": "D"
+  },
+  "NV-3": {
+   "w": "D"
+  },
+  "NV-4": {
+   "w": "D"
+  },
+  "OH-9": {
+   "w": "D"
+  },
+  "TX-3": {
+   "w": "R"
+  },
+  "TX-6": {
+   "w": "R"
+  },
+  "TX-12": {
    "w": "R"
   }
  },
