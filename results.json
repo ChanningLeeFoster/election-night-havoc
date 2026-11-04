@@ -2,8 +2,8 @@
  "updated": "2026-11-03T19:50:00-05:00",
  "final": false,
  "houseCalled": {
-  "D": null,
-  "R": null
+  "D": 6,
+  "R": 1
  },
  "notes": [
   "AP calls Virginia Senate for Mark Warner (D), its first Senate call of the night.",
@@ -34,5 +34,6 @@
   "GA-6": {
    "w": "D"
   }
- }
+ },
+ "v": "194a5e7d06"
 }

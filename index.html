@@ -459,10 +459,11 @@ setInterval(render,60000);
 
 <script>
 (function(){
+  var VER="194a5e7d06";
   var last=JSON.stringify(RESULTS);
   function poll(){
     fetch("results.json?t="+Date.now(),{cache:"no-store"}).then(function(r){return r.ok?r.json():null;}).then(function(j){
-      if(!j) return; var s=JSON.stringify(j); if(s===last) return; last=s;
+      if(!j) return; if(j.v&&j.v!==VER){ location.reload(); return; } var s=JSON.stringify(j); if(s===last) return; last=s;
       Object.keys(j).forEach(function(k){ RESULTS[k]=j[k]; }); render();
     }).catch(function(){});
   }
