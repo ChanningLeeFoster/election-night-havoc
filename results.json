@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-03T22:26:00-05:00",
+ "updated": "2026-11-03T22:33:00-05:00",
  "final": false,
  "houseCalled": {
-  "D": 114,
-  "R": 65
+  "D": 116,
+  "R": 67
  },
  "notes": [
-  "AP calls KY-6 (Toss-up) for Democrat Dembo, a House flip; NC-11 also flipped to Democrats.",
-  "AP calls North Carolina Senate for Roy Cooper (D), a Senate flip.",
-  "AP calls Florida Senate special for Ashley Moody (R) and Kentucky Senate for Andy Barr (R)."
+  "AP calls PA-7 for Bob Brooks (D), unseating Rep. Ryan Mackenzie (R, Homeland) \u2014 the third House flip.",
+  "Earlier House flips: KY-6 (Dembo, D) and NC-11 (Ager, D).",
+  "AP calls North Carolina Senate for Roy Cooper (D), a Senate flip."
  ],
  "calls": {
   "VA-S": {
@@ -595,6 +595,18 @@
   },
   "NJ-9": {
    "w": "D"
+  },
+  "MA-9": {
+   "w": "D"
+  },
+  "PA-7": {
+   "w": "D"
+  },
+  "PA-9": {
+   "w": "R"
+  },
+  "TN-1": {
+   "w": "R"
   }
  },
  "v": "820b570094"
