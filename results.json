@@ -1,14 +1,13 @@
 {
- "updated": "2026-11-03T20:16:00-05:00",
+ "updated": "2026-11-03T20:23:00-05:00",
  "final": false,
  "houseCalled": {
-  "D": 11,
-  "R": 5
+  "D": 17,
+  "R": 8
  },
  "notes": [
-  "AP calls Georgia Senate for Jon Ossoff (D), a Democratic hold.",
-  "AP has called KY-5 for Hal Rogers (R).",
-  "House battlegrounds still uncalled."
+  "First House battleground calls: AP calls FL-14 (Toss-up) for Kathy Castor (D) and FL-25 (Lean D) for Jared Moskowitz (D), both Dem holds.",
+  "AP Senate calls so far: Virginia (Warner) and Georgia (Ossoff), both Dem holds."
  ],
  "calls": {
   "VA-S": {
@@ -64,6 +63,33 @@
   },
   "GA-4": {
    "w": "D"
+  },
+  "FL-25": {
+   "w": "D"
+  },
+  "FL-6": {
+   "w": "R"
+  },
+  "VA-3": {
+   "w": "D"
+  },
+  "FL-21": {
+   "w": "R"
+  },
+  "NJ-8": {
+   "w": "D"
+  },
+  "TX-30": {
+   "w": "D"
+  },
+  "TX-33": {
+   "w": "D"
+  },
+  "FL-14": {
+   "w": "D"
+  },
+  "FL-15": {
+   "w": "R"
   }
  },
  "v": "820b570094"
