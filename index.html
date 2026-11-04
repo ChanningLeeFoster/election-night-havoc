@@ -425,6 +425,8 @@ function render(){
   var net=dP-rP;
   document.getElementById("senSub").textContent="Dem net "+(net>=0?"+":"")+net+" of +4 needed"+(iW?" · Osborn (I) won NE":"")+" · Vance breaks a 50–50 tie";
   var hd=RESULTS.houseCalled.D, hr=RESULTS.houseCalled.R;
+  if(hd==null&&hr==null){ hd=0; hr=0; DATA.H.forEach(function(r){ var c=RESULTS.calls[r.id]; if(!c)return;
+    if(r.lab==="CA-40"||c.w==="R")hr++; else if(c.w==="D")hd++; }); }
   document.getElementById("houD").textContent=hd==null?"—":hd; document.getElementById("houR").textContent=hr==null?"—":hr;
   document.getElementById("houBarD").style.width=((hd||0)/435*100)+"%"; document.getElementById("houBarR").style.width=((hr||0)/435*100)+"%";
   var hf=0; DATA.H.forEach(function(r){ var c=RESULTS.calls[r.id]; if(!c||!r.hp||r.lab==="CA-40")return;
