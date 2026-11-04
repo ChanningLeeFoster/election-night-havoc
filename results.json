@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-04T01:21:00-05:00",
+ "updated": "2026-11-04T01:44:00-05:00",
  "final": false,
  "houseCalled": {
-  "D": 208,
-  "R": 125
+  "D": 214,
+  "R": 128
  },
  "notes": [
-  "AP calls Maine Senate for Troy Jackson (D), unseating Sen. Susan Collins (R), Appropriations Chair and SAC-D \u2014 the seventh Senate flip.",
-  "AP calls IN-5 (Ford) and TX-23 (Padilla Stout) for Democrats, unseating Reps. Spartz and the GOP hold in TX-23 \u2014 20 House flips so far.",
+  "AP calls OH-7 (Toss-up) for Brian Poindexter (D), unseating Rep. Max Miller \u2014 21 House flips so far; Democrats now have 214 House seats called, four short of 218.",
+  "AP calls Maine Senate for Troy Jackson (D), unseating Sen. Susan Collins (R), Appropriations Chair and SAC-D.",
   "Senate flips: NC, SC, TX, OH, KS, IA, ME."
  ],
  "calls": {
@@ -1096,6 +1096,36 @@
   },
   "TX-23": {
    "w": "D"
+  },
+  "CA-42": {
+   "w": "D"
+  },
+  "HI-1": {
+   "w": "D"
+  },
+  "ID-S": {
+   "w": "R"
+  },
+  "MI-8": {
+   "w": "D"
+  },
+  "MN-6": {
+   "w": "R"
+  },
+  "OH-7": {
+   "w": "D"
+  },
+  "OR-5": {
+   "w": "D"
+  },
+  "TX-24": {
+   "w": "R"
+  },
+  "TX-35": {
+   "w": "D"
+  },
+  "TX-36": {
+   "w": "R"
   }
  },
  "v": "e59adcebb6"
