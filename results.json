@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-04T01:44:00-05:00",
+ "updated": "2026-11-04T02:06:00-05:00",
  "final": false,
  "houseCalled": {
-  "D": 214,
-  "R": 128
+  "D": 217,
+  "R": 130
  },
  "notes": [
-  "AP calls OH-7 (Toss-up) for Brian Poindexter (D), unseating Rep. Max Miller \u2014 21 House flips so far; Democrats now have 214 House seats called, four short of 218.",
+  "Democrats have 217 House seats called by AP, one short of the 218 needed for a majority; 21 House flips so far.",
   "AP calls Maine Senate for Troy Jackson (D), unseating Sen. Susan Collins (R), Appropriations Chair and SAC-D.",
   "Senate flips: NC, SC, TX, OH, KS, IA, ME."
  ],
@@ -1125,6 +1125,21 @@
    "w": "D"
   },
   "TX-36": {
+   "w": "R"
+  },
+  "CA-6": {
+   "w": "D"
+  },
+  "CA-45": {
+   "w": "D"
+  },
+  "OR-6": {
+   "w": "D"
+  },
+  "TX-17": {
+   "w": "R"
+  },
+  "TX-25": {
    "w": "R"
   }
  },
