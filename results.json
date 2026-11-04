@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-04T00:23:00-05:00",
+ "updated": "2026-11-04T00:30:00-05:00",
  "final": false,
  "houseCalled": {
-  "D": 185,
-  "R": 113
+  "D": 186,
+  "R": 114
  },
  "notes": [
   "AP calls IA-2 (Toss-up) for Lindsay James (D) \u2014 Democrats sweep IA-1, IA-2 and IA-3; 14 House flips so far.",
@@ -985,6 +985,12 @@
   },
   "TN-8": {
    "w": "R"
+  },
+  "KS-2": {
+   "w": "R"
+  },
+  "UT-1": {
+   "w": "D"
   }
  },
  "v": "e59adcebb6"
