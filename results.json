@@ -1,13 +1,14 @@
 {
- "updated": "2026-11-03T19:56:00-05:00",
+ "updated": "2026-11-03T20:03:00-05:00",
  "final": false,
  "houseCalled": {
-  "D": 7,
-  "R": 2
+  "D": 8,
+  "R": 4
  },
  "notes": [
-  "AP calls Virginia Senate for Mark Warner (D), its first Senate call of the night.",
-  "AP has called safe House seats in FL, GA, KY and VT; battlegrounds still uncalled."
+  "AP calls Georgia Senate for Jon Ossoff (D), a Democratic hold.",
+  "AP Senate calls so far: Virginia (Warner) and Georgia (Ossoff), both Dem holds.",
+  "House battlegrounds still uncalled."
  ],
  "calls": {
   "VA-S": {
@@ -39,6 +40,18 @@
   },
   "VT-AL": {
    "w": "D"
+  },
+  "GA-S": {
+   "w": "D"
+  },
+  "OH-11": {
+   "w": "D"
+  },
+  "FL-28": {
+   "w": "R"
+  },
+  "KY-1": {
+   "w": "R"
   }
  },
  "v": "820b570094"
