@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-03T22:13:00-05:00",
+ "updated": "2026-11-03T22:18:00-05:00",
  "final": false,
  "houseCalled": {
-  "D": 104,
-  "R": 62
+  "D": 108,
+  "R": 63
  },
  "notes": [
-  "Synced with AP: 181 House and Senate races called as of 10:13 PM.",
-  "AP calls Florida Senate special for Ashley Moody (R) and Kentucky Senate for Andy Barr (R).",
-  "AP calls North Carolina Senate for Roy Cooper (D), a Senate flip; NC-11 for Jamie Ager (D), a House flip."
+  "AP calls KY-6 (Toss-up) for Democrat Dembo, a House flip; NC-11 also flipped to Democrats.",
+  "AP calls North Carolina Senate for Roy Cooper (D), a Senate flip.",
+  "AP calls Florida Senate special for Ashley Moody (R) and Kentucky Senate for Andy Barr (R)."
  ],
  "calls": {
   "VA-S": {
@@ -555,6 +555,21 @@
    "w": "R"
   },
   "OK-3": {
+   "w": "R"
+  },
+  "AZ-4": {
+   "w": "D"
+  },
+  "AZ-7": {
+   "w": "D"
+  },
+  "CO-7": {
+   "w": "D"
+  },
+  "KY-6": {
+   "w": "D"
+  },
+  "WI-5": {
    "w": "R"
   }
  },
