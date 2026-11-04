@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-03T21:02:00-05:00",
+ "updated": "2026-11-03T21:08:00-05:00",
  "final": false,
  "houseCalled": {
-  "D": 24,
-  "R": 10
+  "D": 26,
+  "R": 11
  },
  "notes": [
-  "AP calls North Carolina Senate for Roy Cooper (D), the first Senate flip of the night.",
-  "AP calls VA-7 for Eugene Vindman (D).",
-  "FL-22: CBS has projected Pia Dandiya (D); no AP call yet."
+  "AP calls NC-11 for Jamie Ager (D), the first House flip of the night.",
+  "AP calls West Virginia Senate for Shelley Moore Capito (R, SAC-D).",
+  "AP calls North Carolina Senate for Roy Cooper (D), a Senate flip."
  ],
  "calls": {
   "VA-S": {
@@ -123,6 +123,18 @@
    "w": "R"
   },
   "MO-1": {
+   "w": "D"
+  },
+  "WV-S": {
+   "w": "R"
+  },
+  "NC-11": {
+   "w": "D"
+  },
+  "FL-2": {
+   "w": "R"
+  },
+  "IL-7": {
    "w": "D"
   }
  },
