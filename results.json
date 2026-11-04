@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-04T02:50:00-05:00",
- "final": false,
+ "updated": "2026-11-04T03:12:00-05:00",
+ "final": true,
  "houseCalled": {
   "D": 217,
   "R": 130
  },
  "notes": [
-  "Democrats have 217 House seats called by AP, one short of the 218 needed for a majority; 21 House flips so far.",
-  "AP calls Maine Senate for Troy Jackson (D), unseating Sen. Susan Collins (R), Appropriations Chair and SAC-D.",
-  "Senate flips: NC, SC, TX, OH, KS, IA, ME."
+  "Final overnight update at 3:12 AM ET; some races remain uncalled (AP data last synced at 2:05 AM).",
+  "Senate: seven Democratic flips \u2014 NC, SC, TX, OH, KS, IA, ME, including Sen. Susan Collins (R), Appropriations Chair and SAC-D.",
+  "House: 21 Democratic flips; Democrats at 217 seats called by AP, one short of 218."
  ],
  "calls": {
   "VA-S": {
