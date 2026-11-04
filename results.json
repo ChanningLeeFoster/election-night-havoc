@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-03T19:50:00-05:00",
+ "updated": "2026-11-03T19:56:00-05:00",
  "final": false,
  "houseCalled": {
-  "D": 6,
-  "R": 1
+  "D": 7,
+  "R": 2
  },
  "notes": [
   "AP calls Virginia Senate for Mark Warner (D), its first Senate call of the night.",
-  "AP has called a handful of safe House seats in FL, GA and KY; battlegrounds still uncalled."
+  "AP has called safe House seats in FL, GA, KY and VT; battlegrounds still uncalled."
  ],
  "calls": {
   "VA-S": {
@@ -32,6 +32,12 @@
    "w": "D"
   },
   "GA-6": {
+   "w": "D"
+  },
+  "FL-5": {
+   "w": "R"
+  },
+  "VT-AL": {
    "w": "D"
   }
  },
