@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-03T21:42:00-05:00",
+ "updated": "2026-11-03T21:49:00-05:00",
  "final": false,
  "houseCalled": {
   "D": 37,
-  "R": 15
+  "R": 18
  },
  "notes": [
   "AP calls FL-22, a seat redrawn to favor Republicans, for Pia Dandiya (D).",
@@ -180,6 +180,15 @@
    "w": "R"
   },
   "WV-2": {
+   "w": "R"
+  },
+  "NJ-4": {
+   "w": "R"
+  },
+  "IN-8": {
+   "w": "R"
+  },
+  "AR-1": {
    "w": "R"
   }
  },
