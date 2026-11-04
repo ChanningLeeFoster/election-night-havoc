@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-03T23:57:00-05:00",
+ "updated": "2026-11-04T00:03:00-05:00",
  "final": false,
  "houseCalled": {
-  "D": 170,
-  "R": 105
+  "D": 174,
+  "R": 108
  },
  "notes": [
-  "AP calls CO-8 for Manny Rutinel (D), unseating Rep. Gabe Evans (R, Homeland), and the redrawn CA-1 for Mike McGuire (D) \u2014 nine House flips so far.",
-  "AP calls VA-2 for Elaine Luria (D), unseating Rep. Jen Kiggans (R, HASC Seapower).",
+  "AP calls MO-2 for Fred Wellman (D), unseating Rep. Ann Wagner (R) in a Likely R seat, and NE-2 for Denise Powell (D) \u2014 11 House flips so far.",
+  "AP calls CO-8 (Rutinel) and VA-2 (Luria) for Democrats, unseating Reps. Evans (Homeland) and Kiggans (HASC).",
   "Six Senate flips: NC, SC, TX, OH, KS, IA."
  ],
  "calls": {
@@ -910,6 +910,27 @@
   },
   "WA-8": {
    "w": "D"
+  },
+  "AL-6": {
+   "w": "R"
+  },
+  "CA-18": {
+   "w": "D"
+  },
+  "CT-5": {
+   "w": "D"
+  },
+  "MO-2": {
+   "w": "D"
+  },
+  "NE-2": {
+   "w": "D"
+  },
+  "OK-1": {
+   "w": "R"
+  },
+  "TX-13": {
+   "w": "R"
   }
  },
  "v": "e59adcebb6"
