@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-04T00:10:00-05:00",
+ "updated": "2026-11-04T00:16:00-05:00",
  "final": false,
  "houseCalled": {
-  "D": 182,
-  "R": 109
+  "D": 184,
+  "R": 110
  },
  "notes": [
   "AP calls IA-1 (Bohannan) and IA-3 (Trone Garriott) for Democrats, unseating Reps. Miller-Meeks and Nunn \u2014 13 House flips so far.",
@@ -964,6 +964,15 @@
   },
   "UT-3": {
    "w": "R"
+  },
+  "CA-35": {
+   "w": "D"
+  },
+  "GA-1": {
+   "w": "R"
+  },
+  "NM-2": {
+   "w": "D"
   }
  },
  "v": "e59adcebb6"
