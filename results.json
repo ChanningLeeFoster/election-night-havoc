@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-03T23:29:00-05:00",
+ "updated": "2026-11-03T23:36:00-05:00",
  "final": false,
  "houseCalled": {
-  "D": 144,
-  "R": 94
+  "D": 146,
+  "R": 95
  },
  "notes": [
   "AP calls Kansas Senate for Adam Hamilton (D), unseating Sen. Roger Marshall \u2014 the fifth Senate flip; projection now 52\u201348 Democratic.",
@@ -793,6 +793,18 @@
   },
   "WA-10": {
    "w": "D"
+  },
+  "CA-21": {
+   "w": "D"
+  },
+  "CA-43": {
+   "w": "D"
+  },
+  "IA-4": {
+   "w": "R"
+  },
+  "TN-S": {
+   "w": "R"
   }
  },
  "v": "e59adcebb6"
