@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-03T23:08:00-05:00",
+ "updated": "2026-11-03T23:10:00-05:00",
  "final": false,
  "houseCalled": {
   "D": 136,
-  "R": 85
+  "R": 86
  },
  "notes": [
   "AP calls Texas Senate for James Talarico (D) over Ken Paxton, the third Senate flip after North Carolina and South Carolina.",
@@ -732,6 +732,9 @@
    "w": "R"
   },
   "WI-8": {
+   "w": "R"
+  },
+  "TN-2": {
    "w": "R"
   }
  },
