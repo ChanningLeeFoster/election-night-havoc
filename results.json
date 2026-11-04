@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-03T23:43:00-05:00",
+ "updated": "2026-11-03T23:50:00-05:00",
  "final": false,
  "houseCalled": {
-  "D": 151,
-  "R": 98
+  "D": 162,
+  "R": 104
  },
  "notes": [
-  "AP calls Iowa Senate for Josh Turek (D) over Ashley Hinson \u2014 the sixth Senate flip.",
-  "Earlier AP Senate flips: NC (Cooper), SC (Andrews), TX (Talarico), OH (Brown), KS (Hamilton).",
-  "Six House flips so far, including PA-7, PA-8, PA-10 and OH-15."
+  "AP calls VA-2 for Elaine Luria (D), unseating Rep. Jen Kiggans (R, HASC Seapower) \u2014 seven House flips so far.",
+  "AP calls Iowa Senate for Josh Turek (D) \u2014 six Senate flips: NC, SC, TX, OH, KS, IA.",
+  "AP calls AR-3 for Steve Womack (R, HAC-D)."
  ],
  "calls": {
   "VA-S": {
@@ -832,6 +832,57 @@
   },
   "WY-AL": {
    "w": "R"
+  },
+  "AR-3": {
+   "w": "R"
+  },
+  "CA-2": {
+   "w": "D"
+  },
+  "CA-8": {
+   "w": "D"
+  },
+  "CA-15": {
+   "w": "D"
+  },
+  "CA-19": {
+   "w": "D"
+  },
+  "CA-30": {
+   "w": "D"
+  },
+  "CA-32": {
+   "w": "D"
+  },
+  "CA-52": {
+   "w": "D"
+  },
+  "CA-10": {
+   "w": "D"
+  },
+  "CT-3": {
+   "w": "D"
+  },
+  "ID-1": {
+   "w": "R"
+  },
+  "IL-13": {
+   "w": "D"
+  },
+  "IN-4": {
+   "w": "R"
+  },
+  "IN-6": {
+   "w": "R"
+  },
+  "MD-1": {
+   "w": "R"
+  },
+  "MI-9": {
+   "w": "R"
+  },
+  "VA-2": {
+   "w": "D"
   }
  },
  "v": "e59adcebb6"
