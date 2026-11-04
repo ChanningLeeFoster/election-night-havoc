@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-03T23:50:00-05:00",
+ "updated": "2026-11-03T23:57:00-05:00",
  "final": false,
  "houseCalled": {
-  "D": 162,
-  "R": 104
+  "D": 170,
+  "R": 105
  },
  "notes": [
-  "AP calls VA-2 for Elaine Luria (D), unseating Rep. Jen Kiggans (R, HASC Seapower) \u2014 seven House flips so far.",
-  "AP calls Iowa Senate for Josh Turek (D) \u2014 six Senate flips: NC, SC, TX, OH, KS, IA.",
-  "AP calls AR-3 for Steve Womack (R, HAC-D)."
+  "AP calls CO-8 for Manny Rutinel (D), unseating Rep. Gabe Evans (R, Homeland), and the redrawn CA-1 for Mike McGuire (D) \u2014 nine House flips so far.",
+  "AP calls VA-2 for Elaine Luria (D), unseating Rep. Jen Kiggans (R, HASC Seapower).",
+  "Six Senate flips: NC, SC, TX, OH, KS, IA."
  ],
  "calls": {
   "VA-S": {
@@ -882,6 +882,33 @@
    "w": "R"
   },
   "VA-2": {
+   "w": "D"
+  },
+  "CA-28": {
+   "w": "D"
+  },
+  "CA-31": {
+   "w": "D"
+  },
+  "CA-33": {
+   "w": "D"
+  },
+  "CA-38": {
+   "w": "D"
+  },
+  "CA-46": {
+   "w": "D"
+  },
+  "CA-1": {
+   "w": "D"
+  },
+  "CO-8": {
+   "w": "D"
+  },
+  "IN-9": {
+   "w": "R"
+  },
+  "WA-8": {
    "w": "D"
   }
  },
