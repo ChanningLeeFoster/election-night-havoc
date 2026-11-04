@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-03T22:18:00-05:00",
+ "updated": "2026-11-03T22:26:00-05:00",
  "final": false,
  "houseCalled": {
-  "D": 108,
-  "R": 63
+  "D": 114,
+  "R": 65
  },
  "notes": [
   "AP calls KY-6 (Toss-up) for Democrat Dembo, a House flip; NC-11 also flipped to Democrats.",
@@ -571,6 +571,30 @@
   },
   "WI-5": {
    "w": "R"
+  },
+  "AL-7": {
+   "w": "D"
+  },
+  "GA-11": {
+   "w": "R"
+  },
+  "IN-1": {
+   "w": "D"
+  },
+  "MA-3": {
+   "w": "D"
+  },
+  "MA-6": {
+   "w": "D"
+  },
+  "ME-1": {
+   "w": "D"
+  },
+  "MS-3": {
+   "w": "R"
+  },
+  "NJ-9": {
+   "w": "D"
   }
  },
  "v": "820b570094"
