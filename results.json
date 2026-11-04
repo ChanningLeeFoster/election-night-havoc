@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-03T20:50:00-05:00",
+ "updated": "2026-11-03T20:56:00-05:00",
  "final": false,
  "houseCalled": {
-  "D": 23,
-  "R": 9
+  "D": 24,
+  "R": 10
  },
  "notes": [
   "AP calls North Carolina Senate for Roy Cooper (D), the first Senate flip of the night.",
@@ -117,6 +117,12 @@
    "w": "R"
   },
   "VA-7": {
+   "w": "D"
+  },
+  "FL-16": {
+   "w": "R"
+  },
+  "MO-1": {
    "w": "D"
   }
  },
