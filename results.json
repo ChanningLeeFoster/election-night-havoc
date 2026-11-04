@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-04T00:37:00-05:00",
+ "updated": "2026-11-04T00:45:00-05:00",
  "final": false,
  "houseCalled": {
-  "D": 193,
-  "R": 117
+  "D": 196,
+  "R": 120
  },
  "notes": [
-  "AP calls IA-2 (Toss-up) for Lindsay James (D) \u2014 Democrats sweep IA-1, IA-2 and IA-3; 14 House flips so far.",
-  "AP calls Minnesota Senate for Peggy Flanagan (D), a hold; six Senate flips: NC, SC, TX, OH, KS, IA.",
-  "AP calls MO-2 for Fred Wellman (D), unseating Rep. Ann Wagner in a Likely R seat."
+  "AP calls PA-1 for Bob Harvie (D), unseating Rep. Brian Fitzpatrick, and TX-15 for Bobby Pulido (D), unseating Rep. Monica De La Cruz \u2014 16 House flips so far.",
+  "Democrats swept Iowa (IA-1, IA-2, IA-3) and flipped MO-2, NE-2, CO-8, VA-2 and CA-1.",
+  "Six Senate flips: NC, SC, TX, OH, KS, IA."
  ],
  "calls": {
   "VA-S": {
@@ -1024,6 +1024,24 @@
   },
   "TX-28": {
    "w": "D"
+  },
+  "CA-41": {
+   "w": "D"
+  },
+  "PA-1": {
+   "w": "D"
+  },
+  "TX-14": {
+   "w": "R"
+  },
+  "TX-15": {
+   "w": "D"
+  },
+  "TX-21": {
+   "w": "R"
+  },
+  "TX-31": {
+   "w": "R"
   }
  },
  "v": "e59adcebb6"
