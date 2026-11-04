@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-03T22:33:00-05:00",
+ "updated": "2026-11-03T22:40:00-05:00",
  "final": false,
  "houseCalled": {
-  "D": 116,
-  "R": 67
+  "D": 122,
+  "R": 68
  },
  "notes": [
   "AP calls PA-7 for Bob Brooks (D), unseating Rep. Ryan Mackenzie (R, Homeland) \u2014 the third House flip.",
@@ -606,6 +606,27 @@
    "w": "R"
   },
   "TN-1": {
+   "w": "R"
+  },
+  "IL-6": {
+   "w": "D"
+  },
+  "IL-14": {
+   "w": "D"
+  },
+  "MI-6": {
+   "w": "D"
+  },
+  "MI-13": {
+   "w": "D"
+  },
+  "NY-16": {
+   "w": "D"
+  },
+  "OH-1": {
+   "w": "D"
+  },
+  "WI-6": {
    "w": "R"
   }
  },
