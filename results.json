@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-03T23:36:00-05:00",
+ "updated": "2026-11-03T23:43:00-05:00",
  "final": false,
  "houseCalled": {
-  "D": 146,
-  "R": 95
+  "D": 151,
+  "R": 98
  },
  "notes": [
-  "AP calls Kansas Senate for Adam Hamilton (D), unseating Sen. Roger Marshall \u2014 the fifth Senate flip; projection now 52\u201348 Democratic.",
-  "Earlier AP Senate flips: North Carolina (Cooper), South Carolina (Andrews), Texas (Talarico), Ohio (Brown).",
+  "AP calls Iowa Senate for Josh Turek (D) over Ashley Hinson \u2014 the sixth Senate flip.",
+  "Earlier AP Senate flips: NC (Cooper), SC (Andrews), TX (Talarico), OH (Brown), KS (Hamilton).",
   "Six House flips so far, including PA-7, PA-8, PA-10 and OH-15."
  ],
  "calls": {
@@ -804,6 +804,33 @@
    "w": "R"
   },
   "TN-S": {
+   "w": "R"
+  },
+  "CA-9": {
+   "w": "D"
+  },
+  "CA-20": {
+   "w": "R"
+  },
+  "CA-36": {
+   "w": "D"
+  },
+  "CA-44": {
+   "w": "D"
+  },
+  "IA-S": {
+   "w": "D"
+  },
+  "LA-3": {
+   "w": "R"
+  },
+  "WA-1": {
+   "w": "D"
+  },
+  "WA-2": {
+   "w": "D"
+  },
+  "WY-AL": {
    "w": "R"
   }
  },
