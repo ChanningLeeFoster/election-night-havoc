@@ -1,13 +1,14 @@
 {
- "updated": "2026-11-03T20:30:00-05:00",
+ "updated": "2026-11-03T20:37:00-05:00",
  "final": false,
  "houseCalled": {
-  "D": 17,
+  "D": 22,
   "R": 8
  },
  "notes": [
-  "First House battleground calls: AP calls FL-14 (Toss-up) for Kathy Castor (D) and FL-25 (Lean D) for Jared Moskowitz (D), both Dem holds.",
-  "AP Senate calls so far: Virginia (Warner) and Georgia (Ossoff), both Dem holds."
+  "AP calls North Carolina Senate for Roy Cooper (D), the first Senate flip of the night.",
+  "AP calls New Hampshire Senate for Chris Pappas (D), a Democratic hold.",
+  "AP has also called Georgia (Ossoff) and Virginia (Warner) for Democrats."
  ],
  "calls": {
   "VA-S": {
@@ -90,6 +91,27 @@
   },
   "FL-15": {
    "w": "R"
+  },
+  "NC-S": {
+   "w": "D"
+  },
+  "NH-S": {
+   "w": "D"
+  },
+  "NC-2": {
+   "w": "D"
+  },
+  "NJ-11": {
+   "w": "D"
+  },
+  "NJ-1": {
+   "w": "D"
+  },
+  "NJ-10": {
+   "w": "D"
+  },
+  "NC-4": {
+   "w": "D"
   }
  },
  "v": "820b570094"
