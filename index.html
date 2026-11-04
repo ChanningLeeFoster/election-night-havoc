@@ -489,7 +489,7 @@ setInterval(render,60000);
       Object.keys(j).forEach(function(k){ RESULTS[k]=j[k]; }); render();
     }).catch(function(){});
   }
-  setInterval(poll,60000); document.addEventListener("visibilitychange",function(){ if(!document.hidden) poll(); });
+  setInterval(poll,30000); document.addEventListener("visibilitychange",function(){ if(!document.hidden) poll(); });
 })();
 </script>
 </body>
