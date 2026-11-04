@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-03T20:03:00-05:00",
+ "updated": "2026-11-03T20:09:00-05:00",
  "final": false,
  "houseCalled": {
-  "D": 8,
-  "R": 4
+  "D": 11,
+  "R": 5
  },
  "notes": [
   "AP calls Georgia Senate for Jon Ossoff (D), a Democratic hold.",
-  "AP Senate calls so far: Virginia (Warner) and Georgia (Ossoff), both Dem holds.",
+  "AP has called KY-5 for Hal Rogers (R).",
   "House battlegrounds still uncalled."
  ],
  "calls": {
@@ -52,6 +52,18 @@
   },
   "KY-1": {
    "w": "R"
+  },
+  "FL-23": {
+   "w": "D"
+  },
+  "OH-3": {
+   "w": "D"
+  },
+  "KY-5": {
+   "w": "R"
+  },
+  "GA-4": {
+   "w": "D"
   }
  },
  "v": "820b570094"
