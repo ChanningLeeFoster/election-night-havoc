@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-05T16:45:00-05:00",
+ "updated": "2026-11-05T16:40:00-05:00",
  "final": true,
  "houseCalled": {
-  "D": 233,
+  "D": 234,
   "R": 141
  },
  "notes": [
-  "AP calls VA-1 for Shannon Taylor (D), unseating Rep. Rob Wittman (R), HASC Vice Chair and TAL Chair; NC-1 for Rep. Don Davis (D, HASC TAL).",
-  "New Democratic House flips: AZ-1 (Shah), VA-1 (Taylor), NC-13 (Barringer), NC-14 (Womack). Alaska and Mississippi Senate remain uncalled; Mississippi is within a few dozen votes.",
-  "Partial update from AP race-call stories at 4:45 PM Nov 5; AP may have called more races not yet shown here."
+  "AP calls MI-10 for Christina Hines (D) over Mike Bouchard Jr. (R) in the open seat John James left \u2014 a Democratic flip.",
+  "AP calls VA-1 for Shannon Taylor (D), unseating Rep. Rob Wittman (R), HASC Vice Chair and TAL Chair. Other new flips: AZ-1, NC-13, NC-14.",
+  "Partial update at 4:40 PM Nov 5; AP may have called more races not yet shown here. Alaska and Mississippi Senate remain uncalled."
  ],
  "calls": {
   "VA-S": {
@@ -1209,6 +1209,9 @@
    "w": "D"
   },
   "NC-14": {
+   "w": "D"
+  },
+  "MI-10": {
    "w": "D"
   }
  },
