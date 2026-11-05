@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-04T12:23:00-05:00",
+ "updated": "2026-11-05T16:45:00-05:00",
  "final": true,
  "houseCalled": {
-  "D": 228,
-  "R": 139
+  "D": 233,
+  "R": 141
  },
  "notes": [
-  "Checked against AP at 12:23 PM ET: no new race calls since 5:19 AM; AP totals unchanged.",
-  "Senate: seven Democratic flips \u2014 NC, SC, TX, OH, KS, IA, ME; Alaska and Mississippi still uncalled.",
-  "House: Democrats at 228 seats by AP count, past 218; 21 House flips; races still counting, mostly in the West."
+  "AP calls VA-1 for Shannon Taylor (D), unseating Rep. Rob Wittman (R), HASC Vice Chair and TAL Chair; NC-1 for Rep. Don Davis (D, HASC TAL).",
+  "New Democratic House flips: AZ-1 (Shah), VA-1 (Taylor), NC-13 (Barringer), NC-14 (Womack). Alaska and Mississippi Senate remain uncalled; Mississippi is within a few dozen votes.",
+  "Partial update from AP race-call stories at 4:45 PM Nov 5; AP may have called more races not yet shown here."
  ],
  "calls": {
   "VA-S": {
@@ -1189,6 +1189,27 @@
   },
   "TX-12": {
    "w": "R"
+  },
+  "NC-1": {
+   "w": "D"
+  },
+  "AZ-1": {
+   "w": "D"
+  },
+  "VA-1": {
+   "w": "D"
+  },
+  "VA-5": {
+   "w": "R"
+  },
+  "NY-1": {
+   "w": "R"
+  },
+  "NC-13": {
+   "w": "D"
+  },
+  "NC-14": {
+   "w": "D"
   }
  },
  "v": "e2d4ddec36"
