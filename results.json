@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-05T16:40:00-05:00",
+ "updated": "2026-11-09T09:52:00-05:00",
  "final": true,
  "houseCalled": {
-  "D": 234,
-  "R": 141
+  "D": 254,
+  "R": 162
  },
  "notes": [
-  "AP calls MI-10 for Christina Hines (D) over Mike Bouchard Jr. (R) in the open seat John James left \u2014 a Democratic flip.",
-  "AP calls VA-1 for Shannon Taylor (D), unseating Rep. Rob Wittman (R), HASC Vice Chair and TAL Chair. Other new flips: AZ-1, NC-13, NC-14.",
-  "Partial update at 4:40 PM Nov 5; AP may have called more races not yet shown here. Alaska and Mississippi Senate remain uncalled."
+  "Synced with AP at 9:52 AM Nov 9. New House flips include OH-10 (Rep. Mike Turner, HASC TAL), CA-22 (Rep. David Valadao, HAC-D), CO-5 (Rep. Jeff Crank, HASC), NJ-2 (Rep. Jeff Van Drew) and NY-17 (Rep. Mike Lawler).",
+  "Holds: NY-2 Rep. Andrew Garbarino (R, Homeland Chair); TX-5 Rep. Lance Gooden (R, HASC); AZ-8 Rep. Abe Hamadeh (R, HASC); TN-7 Rep. Matt Van Epps (R, Homeland).",
+  "Senate: Alaska and Mississippi still uncalled by AP."
  ],
  "calls": {
   "VA-S": {
@@ -1213,6 +1213,141 @@
   },
   "MI-10": {
    "w": "D"
+  },
+  "AR-2": {
+   "w": "R"
+  },
+  "AZ-5": {
+   "w": "R"
+  },
+  "AZ-6": {
+   "w": "D"
+  },
+  "AZ-8": {
+   "w": "R"
+  },
+  "CA-11": {
+   "w": "D"
+  },
+  "CA-13": {
+   "w": "D"
+  },
+  "CA-14": {
+   "w": "D"
+  },
+  "CA-22": {
+   "w": "D"
+  },
+  "CA-29": {
+   "w": "D"
+  },
+  "CA-47": {
+   "w": "D"
+  },
+  "CA-48": {
+   "w": "D"
+  },
+  "CA-34": {
+   "w": "D"
+  },
+  "CO-3": {
+   "w": "R"
+  },
+  "CO-5": {
+   "w": "D"
+  },
+  "FL-13": {
+   "w": "R"
+  },
+  "MI-4": {
+   "w": "D"
+  },
+  "MI-7": {
+   "w": "D"
+  },
+  "MT-1": {
+   "w": "D"
+  },
+  "NC-9": {
+   "w": "D"
+  },
+  "NC-6": {
+   "w": "D"
+  },
+  "NC-8": {
+   "w": "R"
+  },
+  "NE-1": {
+   "w": "R"
+  },
+  "NJ-2": {
+   "w": "D"
+  },
+  "NV-2": {
+   "w": "D"
+  },
+  "NY-2": {
+   "w": "R"
+  },
+  "NY-3": {
+   "w": "D"
+  },
+  "NY-4": {
+   "w": "D"
+  },
+  "NY-17": {
+   "w": "D"
+  },
+  "NY-21": {
+   "w": "R"
+  },
+  "OH-10": {
+   "w": "D"
+  },
+  "OK-5": {
+   "w": "R"
+  },
+  "SC-1": {
+   "w": "D"
+  },
+  "TN-7": {
+   "w": "R"
+  },
+  "TN-9": {
+   "w": "R"
+  },
+  "TX-2": {
+   "w": "R"
+  },
+  "TX-5": {
+   "w": "R"
+  },
+  "TX-9": {
+   "w": "D"
+  },
+  "TX-22": {
+   "w": "R"
+  },
+  "TX-27": {
+   "w": "R"
+  },
+  "TX-32": {
+   "w": "R"
+  },
+  "TX-38": {
+   "w": "R"
+  },
+  "UT-2": {
+   "w": "R"
+  },
+  "UT-4": {
+   "w": "R"
+  },
+  "WA-3": {
+   "w": "D"
+  },
+  "WA-4": {
+   "w": "R"
   }
  },
  "v": "e2d4ddec36"
